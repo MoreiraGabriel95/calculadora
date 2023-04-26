@@ -39,10 +39,6 @@ python calculadora.py
 
 Se você gostaria de contribuir com o projeto, sinta-se à vontade para fazer um fork do repositório e enviar um pull request.
 
-## Licença
-
-Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão, por favor entre em contato comigo em `seuemail@exemplo.com`.calculadora
+Se você tiver alguma dúvida ou sugestão, por favor entre em contato comigo em `gabrielmoreira.95@outlook.com`
